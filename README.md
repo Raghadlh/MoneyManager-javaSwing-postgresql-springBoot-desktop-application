@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="frontend/src/assets/logo.png" alt="MoneyManager Logo" width="200"/>
+</p>
+
 # MoneyManager-javaSwing-postgresql-springBoot-desktop-application
 
 A full-stack personal finance manager built with **Java Swing** for the desktop UI, **Spring Boot** for the backend API, and **PostgreSQL** as the database.  
@@ -33,10 +37,17 @@ Track transactions, set saving goals, view summaries, and manage your finances w
 
 ## 📸 Demo Screenshots
 
-Login| Dashboard | Add Transaction | Saving Goals | Summary | Transactions Table
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Login Screenshot](./screenshots/login.png)| ![Dashboard Screenshot](./screenshots/dashboard.png) | ![Add Transaction Screenshot](./screenshots/add_transaction.png) | ![Saving Goals Screenshot](./screenshots/saving_goals.png) | ![Summary](./screenshots/summary.png)| ![Transactions Table](./screenshots/view_transactions.png)
----
+| Login | Dashboard |
+|:---:|:---:|
+| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
+
+| Add Transaction | Saving Goals |
+|:---:|:---:|
+| ![Add Transaction](./screenshots/add_transaction.png) | ![Saving Goals](./screenshots/saving_goals.png) |
+
+| Summary | Transactions Table |
+|:---:|:---:|
+| ![Summary](./screenshots/summary.png) | ![Transactions](./screenshots/view_transactions.png) |
 
 ## ⚙️ How to Run
 
