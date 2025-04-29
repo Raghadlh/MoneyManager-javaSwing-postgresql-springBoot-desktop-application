@@ -33,9 +33,9 @@ Track transactions, set saving goals, view summaries, and manage your finances w
 
 ## 📸 Demo Screenshots
 
-| Dashboard | Add Transaction | Saving Goals |
-|:---:|:---:|:---:|
-| ![Dashboard Screenshot](./screenshots/dashboard.png) | ![Add Transaction Screenshot](./screenshots/add_transaction.png) | ![Saving Goals Screenshot](./screenshots/saving_goals.png) |
+Login| Dashboard | Add Transaction | Saving Goals | Summary | Transactions Table
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Login Screenshot](./screenshots/login.png)| ![Dashboard Screenshot](./screenshots/dashboard.png) | ![Add Transaction Screenshot](./screenshots/add_transaction.png) | ![Saving Goals Screenshot](./screenshots/saving_goals.png) | ![Summary](./screenshots/summary.png)| ![Transactions Table](./screenshots/view_transactions.png)
 ---
 
 ## ⚙️ How to Run
