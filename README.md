@@ -9,20 +9,20 @@ Track transactions, set saving goals, view summaries, and manage your finances w
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📌 Add, edit, and delete income/expense transactions
-- 🎯 Set and track personal saving goals
-- 📊 View financial summaries (income, expenses, balance)
-- 📅 Date picker and filtering for transactions
-- 🔍 Search functionality for table entries
-- 📤 Export transactions to CSV
-- 🔐 Authentication system (Spring Security)
-- 🗃️ Persistent data storage with PostgreSQL
+-  Add, edit, and delete income/expense transactions
+-  Set and track personal saving goals
+-  View financial summaries (income, expenses, balance)
+-  Date picker and filtering for transactions
+-  Search functionality for table entries
+-  Export transactions to CSV
+-  Authentication system (Spring Security)
+-  Persistent data storage with PostgreSQL
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer        | Technology            |
 |--------------|------------------------|
@@ -35,7 +35,7 @@ Track transactions, set saving goals, view summaries, and manage your finances w
 
 ---
 
-## 📸 Demo Screenshots
+##  Demo Screenshots
 
 | Login | Dashboard |
 |:---:|:---:|
@@ -49,9 +49,9 @@ Track transactions, set saving goals, view summaries, and manage your finances w
 |:---:|:---:|
 | ![Summary](./screenshots/summary.png) | ![Transactions](./screenshots/view_transactions.png) |
 
-## ⚙️ How to Run
+##  How to Run
 
-### 🔧 Prerequisites
+###  Prerequisites
 
 - Java 17
 - Maven 3.8+
